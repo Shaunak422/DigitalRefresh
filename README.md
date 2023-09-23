@@ -15,4 +15,4 @@ Link to github repository - https://github.com/Shaunak422/DigitalRefresh
 
 The website has been hosted on(GitHub Pages) link - https://shaunak422.github.io/DigitalRefresh/
 
-Google Drive Link -  
+Google Drive Link -  https://drive.google.com/drive/folders/1RSICjkoGCnkHzto0y5bcYvvauYh4NyE9?usp=sharing
