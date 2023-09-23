@@ -1,16 +1,4 @@
 # DigitalRefresh
-Team Name - DigitalRefresh
-
-    Name				Phone no. 
-Shaunak Dinkar			9527040282
-Rushabh Vaidya			9011670358
-Ishan Apte			    9730778702
-
-
-Link to github repository - https://github.com/Shaunak422/DigitalRefresh
-
-The website has been hosted on(GitHub Pages) link - https://shaunak422.github.io/DigitalRefresh/
-
 
 
 So we've created website by addressing problem statements and we've tried to solve the issues.
@@ -21,3 +9,10 @@ We have tried to help the user by providing various ways of not only diagnosing 
 Three main issues have been addressed as stated - 1.Information Overload , 2.Social media pressure and 3.Harassment
 Our website uses a easy to use interface for the user for ease of use. We have added various functionalities so that the user can easily navigate to the page he/she wants to access.
 This has been accomplished using html and css.
+
+
+Link to github repository - https://github.com/Shaunak422/DigitalRefresh
+
+The website has been hosted on(GitHub Pages) link - https://shaunak422.github.io/DigitalRefresh/
+
+Google Drive Link -  
