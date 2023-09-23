@@ -4,7 +4,7 @@ Team Name - DigitalRefresh
     Name				Phone no. 
 Shaunak Dinkar			9527040282
 Rushabh Vaidya			9011670358
-Ishan Apte			9730778702
+Ishan Apte			    9730778702
 
 
 Link to github repository - https://github.com/Shaunak422/DigitalRefresh
